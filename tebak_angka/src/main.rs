@@ -8,7 +8,15 @@ fn main() {
 
     let angka_rahasia = rand::thread_rng().gen_range(1..=100);
 
+    let mut coba = 0;
+
     loop {
+        if coba >= 5 {
+            println!("Maaf, kesempatan menebak kamu sudah habis!");
+            println!("Angka rahasia adalah: {}", angka_rahasia);
+            break;
+        }
+
         println!("Tebak angka: ");
 
         let mut tebakan = String::new();
@@ -21,7 +29,8 @@ fn main() {
         Ok(num) => num,
         Err(_) => continue,
        };
-       
+        coba += 1;
+        
        println!("Kamu menebak: {}", tebakan);
 
        match tebakan.cmp(&angka_rahasia) {
@@ -33,4 +42,5 @@ fn main() {
             }
        }
     }
+    println!("Kamu menebak {} kali", coba);
 }
