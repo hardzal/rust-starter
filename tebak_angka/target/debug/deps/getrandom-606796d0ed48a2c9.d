@@ -1,0 +1,11 @@
+C:\Users\iztwm\Documents\explore\rust-study\first\exercise\tebak_angka\target\debug\deps\getrandom-606796d0ed48a2c9.d: C:\Users\iztwm\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\lib.rs C:\Users\iztwm\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\error.rs C:\Users\iztwm\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\util.rs C:\Users\iztwm\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\error_impls.rs C:\Users\iztwm\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\windows.rs
+
+C:\Users\iztwm\Documents\explore\rust-study\first\exercise\tebak_angka\target\debug\deps\libgetrandom-606796d0ed48a2c9.rlib: C:\Users\iztwm\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\lib.rs C:\Users\iztwm\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\error.rs C:\Users\iztwm\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\util.rs C:\Users\iztwm\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\error_impls.rs C:\Users\iztwm\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\windows.rs
+
+C:\Users\iztwm\Documents\explore\rust-study\first\exercise\tebak_angka\target\debug\deps\libgetrandom-606796d0ed48a2c9.rmeta: C:\Users\iztwm\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\lib.rs C:\Users\iztwm\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\error.rs C:\Users\iztwm\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\util.rs C:\Users\iztwm\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\error_impls.rs C:\Users\iztwm\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\windows.rs
+
+C:\Users\iztwm\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\lib.rs:
+C:\Users\iztwm\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\error.rs:
+C:\Users\iztwm\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\util.rs:
+C:\Users\iztwm\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\error_impls.rs:
+C:\Users\iztwm\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\getrandom-0.2.16\src\windows.rs:
